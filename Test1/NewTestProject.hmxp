@@ -126,7 +126,6 @@
       <config-value name="autohelpanchor">0</config-value>
       <config-value name="searchpath">.\</config-value>
       <config-value name="imageshortcuts_includebaggage">1</config-value>
-      <config-group name="bookmarks"/>
     </config-group>
     <config-group name="pdf">
       <config-value name="style">0</config-value>
